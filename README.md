@@ -64,3 +64,16 @@ Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsa
 - Teknolojik değişiklikler ve güncellemeler, oyunun sürekli güncellenmesi gerekliliği doğurabilir.
   
 - Eğitim standartlarındaki değişiklikler, oyunun müfredatla uyumluluğunu etkileyebilir.
+
+# Risk Analizi / RAMS tasarım ilkeleri
+
+## *Güvenilirlik (Reliability):
+
+## *Uygunluk (Availability):
+
+## *Bakım Kolaylığı (Maintainability):
+
+## *Güvenlik (Safety):
+
+## *Risk Analizi:
+
