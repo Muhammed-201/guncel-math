@@ -6,7 +6,7 @@
 
 # Proje Özellikleri / Fikirleri
 
-## *İnteraktif Oyunlar:
+_ İnteraktif Oyunlar:
 
  - Sadece eğitici değil aynı zamanda eğlenceli matematik tabanlı oyun geliştirildi.
 
@@ -23,4 +23,4 @@
 
 # Proje senaryosu
 
--Oyun, renkli ve canlı görsellerle dolu bir dünyada geçer. Bu görseller, 0'dan 9'a kadar olan sayıları temsil eder. Çocuklar, eğlenceli karakterlerle etkileşime geçer ve bu renkli dünyada beliren iki görselin toplamını doğru bir şekilde tahmin etmeye çalışırlar. Seçtikleri sayıları toplamak, çocuklara temel matematik toplama becerilerini öğretirken, eğlenceli bir macera yaşatır.
+- Oyun, renkli ve canlı görsellerle dolu bir dünyada geçer. Bu görseller, 0'dan 9'a kadar olan sayıları temsil eder. Çocuklar, eğlenceli karakterlerle etkileşime geçer ve bu renkli dünyada beliren iki görselin toplamını doğru bir şekilde tahmin etmeye çalışırlar. Seçtikleri sayıları toplamak, çocuklara temel matematik toplama becerilerini öğretirken, eğlenceli bir macera yaşatır.
