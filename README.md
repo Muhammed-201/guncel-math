@@ -69,11 +69,30 @@ Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsa
 
 ## *Güvenilirlik (Reliability):
 
+- Oyunun sistem ve bileşenlerinin güvenilir olması için kaliteli malzeme ve yazılım kullanımına önem verin.
+- Oyunun sürekli ve stabil bir şekilde çalışması için düzenli olarak testler yapın ve hata düzeltmeleri gerçekleştirin.
+  
 ## *Uygunluk (Availability):
+
+- Oyunun kullanılabilirliğini artırmak için düzenli bakım ve güncellemeler sağlayın.
+  
+- Çevrimiçi bir platform üzerinde ise sunucu düşüşleri gibi durumları ele alacak planlar yapın.
 
 ## *Bakım Kolaylığı (Maintainability):
 
+- Yazılım kodunun düzenli ve anlaşılır olmasına dikkat edin, böylece bakım ve güncelleme süreçleri kolay olur.
+  
+- Kullanıcı geri bildirimlerini düzenli olarak değerlendirin ve gerekli iyileştirmeleri yapın.
+  
 ## *Güvenlik (Safety):
 
+- Çocuklar için güvenli bir oyun ortamı sağlamak için gizlilik ve güvenlik standartlarına uygunluk önemlidir.
+  
+- Kullanıcı bilgilerini korumak için güvenli veri saklama ve iletim yöntemleri kullanın.
+
 ## *Risk Analizi:
+
+- Projenizin potansiyel risklerini belirleyin ve bunları azaltmak için önlemler alın.
+
+- Kullanıcıların oyun sırasında karşılaşabileceği olası sorunlara karşı acil durum planları geliştirin.
 
