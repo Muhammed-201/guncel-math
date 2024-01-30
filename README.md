@@ -35,8 +35,32 @@ Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsa
 
 ## *Güçlü Yönler (Strengths):
 
+- Eğitici ve eğlenceli bir oyun olması, çocukların matematik öğrenmeye daha istekli olmalarını sağlayabilir.
+  
+- Canlı ve renkli görsellerin kullanılması, matematiksel kavramları daha çekici ve anlaşılır kılabilir.
+  
+- Kullanıcı dostu arayüz tasarımı, çocukların oyunu kolayca anlamalarına ve kullanmalarına yardımcı olabilir.
+  
+- Karakter unsurlarının dahil edilmesi, duygusal bağ kurma ve öğrenme motivasyonunu artırabilir.
+  
 ## *Zayıf Yönler (Weaknesses):
 
+- Belirli bir yaş grubuna hitap edip etmediği belirtilmemiş. Oyunun belirli bir yaş aralığındaki çocuklara uygun olup olmadığını değerlendirmek önemli olabilir.
+  
+- Matematik öğrenimini destekleme konusunda daha fazla interaktif öğe veya öğrenme seviyeleri eklemek faydalı olabilir.
+  
+- İleri seviye matematik kavramlarını içermiyorsa, belirli bir yaşın üzerindeki çocuklar için yeterli meydan okuma sunmayabilir.
+  
 ## *Fırsatlar (Opportunities):
 
+- Eğitim teknolojisi pazarındaki büyüme ile birlikte, çocuklara yönelik eğitici oyunlara olan talep artabilir.
+- Çocuklar arasında popüler olan platformlarda oyunun tanıtımı, daha fazla kullanıcıya ulaşma fırsatı sunabilir.
+- Oyunun sürekli güncellenmesi ve yeni matematiksel konseptler eklenmesi, kullanıcı ilgisini canlı tutabilir.
+
 ## *Tehditler (Threats):
+
+- Rakip oyunlarla rekabet, projenizin farklılaşma stratejilerine ihtiyaç duyabilir.
+  
+- Teknolojik değişiklikler ve güncellemeler, oyunun sürekli güncellenmesi gerekliliği doğurabilir.
+  
+- Eğitim standartlarındaki değişiklikler, oyunun müfredatla uyumluluğunu etkileyebilir.
