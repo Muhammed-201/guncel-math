@@ -16,7 +16,7 @@
 
  - Matematiksel kavramları temsil etmek için canlı ve renkli görseller kullanıldı.
 
-# Kullanıcı Dostu Arayüz:
+### Kullanıcı Dostu Arayüz:
 
  - Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlandı.
 
