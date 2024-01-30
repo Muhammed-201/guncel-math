@@ -64,34 +64,27 @@ Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsa
   
 - Eğitim standartlarındaki değişiklikler, oyunun müfredatla uyumluluğunu etkileyebilir.
 
-> # Risk Analizi / RAMS tasarım ilkeleri
+> # RAMS tasarım ilkeleri
 
 ## *Güvenilirlik (Reliability):
 
-- Oyunun sistem ve bileşenlerinin güvenilir olması için kaliteli malzeme ve yazılım kullanımına önem verin.
-- Oyunun sürekli ve stabil bir şekilde çalışması için düzenli olarak testler yapın ve hata düzeltmeleri gerçekleştirin.
+- Oyunun sistem ve bileşenlerinin güvenilir olması için kaliteli malzeme ve yazılım kullanılmasina  önem verilmeli.
+- Oyunun sürekli ve stabil bir şekilde çalışması için düzenli olarak testler yapılması ve hata düzeltmeleri gerçekleştirilmesi.
   
 ## *Uygunluk (Availability):
 
-- Oyunun kullanılabilirliğini artırmak için düzenli bakım ve güncellemeler sağlayın.
-  
-- Çevrimiçi bir platform üzerinde ise sunucu düşüşleri gibi durumları ele alacak planlar yapın.
+- Oyunun kullanılabilirliğini artırmak için düzenli bakım ve güncellemeler sağlanılmalı.
 
 ## *Bakım Kolaylığı (Maintainability):
 
-- Yazılım kodunun düzenli ve anlaşılır olmasına dikkat edin, böylece bakım ve güncelleme süreçleri kolay olur.
+- Yazılım kodunun düzenli ve anlaşılır olmasına dikkat edilmesi, böylece bakım ve güncelleme süreçleri kolay olur.
   
-- Kullanıcı geri bildirimlerini düzenli olarak değerlendirin ve gerekli iyileştirmeleri yapın.
+- Kullanıcı geri bildirimlerini düzenli olarak değerlendirıp ve gerekli iyileştirmeler yapılması.
   
 ## *Güvenlik (Safety):
 
 - Çocuklar için güvenli bir oyun ortamı sağlamak için gizlilik ve güvenlik standartlarına uygunluk önemlidir.
   
-- Kullanıcı bilgilerini korumak için güvenli veri saklama ve iletim yöntemleri kullanın.
+- Kullanıcı bilgilerini korumak için güvenli veri saklama ve iletim yöntemleri kullanmak.
 
-## *Risk Analizi:
-
-- Projenizin potansiyel risklerini belirleyin ve bunları azaltmak için önlemler alın.
-
-- Kullanıcıların oyun sırasında karşılaşabileceği olası sorunlara karşı acil durum planları geliştirin.
 
