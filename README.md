@@ -4,9 +4,7 @@
 
 Çocuk izleyiciyi hedef alan projenin ana mesajı "Matematik Çılgınlığı: Matematik eğlenceli olabilir!”.
 
-## Installing / Getting started
-
-##Proje Özellikleri / Fikirleri
+## Proje Özellikleri / Fikirleri
 
 #İnteraktif Oyunlar:
 
