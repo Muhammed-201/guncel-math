@@ -20,5 +20,7 @@
 
  - Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlandı.
 
+   
+
 # Proje senaryosu
 
