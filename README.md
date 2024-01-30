@@ -21,15 +21,15 @@
  - Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlandı.
 
 
-# Oyun senaryosu
+< # Oyun senaryosu
 
 - Oyun, renkli ve canlı görsellerle dolu bir dünyada geçer. Bu görseller, 0'dan 9'a kadar olan sayıları temsil eder. Çocuklar, eğlenceli karakterlerle etkileşime geçer ve bu renkli dünyada beliren iki görselin toplamını doğru bir şekilde tahmin etmeye çalışırlar. Seçtikleri sayıları toplamak, çocuklara temel matematik toplama becerilerini öğretirken, eğlenceli bir macera yaşatır.
 
 
-# Tanıtıcı Video
+< # Tanıtıcı Video
 
 
-# Projenin SWOT Analizi
+< # Projenin SWOT Analizi
 
 Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsatlarını (Opportunities), ve tehditlerini (Threats) değerlendiren bir SWOT analizi:
 
@@ -65,7 +65,7 @@ Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsa
   
 - Eğitim standartlarındaki değişiklikler, oyunun müfredatla uyumluluğunu etkileyebilir.
 
-# Risk Analizi / RAMS tasarım ilkeleri
+< # Risk Analizi / RAMS tasarım ilkeleri
 
 ## *Güvenilirlik (Reliability):
 
