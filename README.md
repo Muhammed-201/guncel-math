@@ -32,3 +32,11 @@
 # Projenin SWOT Analizi
 
 Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsatlarını (Opportunities), ve tehditlerini (Threats) değerlendiren bir SWOT analizi:
+
+## *Güçlü Yönler (Strengths):
+
+## *Zayıf Yönler (Weaknesses):
+
+## *Fırsatlar (Opportunities):
+
+## *Tehditler (Threats):
