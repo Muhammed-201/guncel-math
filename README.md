@@ -1,20 +1,24 @@
-# Matheor
-> Educational math game made in Unity/C# for platforms Android and PC
+# guncel_math
+> Güncel Konular dersinin projesi
+> "Matematik Çılgınlığı: öğrenmenin Eğlenceli Olduğu Yer!”
 
-"Math can be fun" is the main message of the project, targeting the children audience.
-Made by satraul, rayzaarasj and muzakkiha.
+Çocuk izleyiciyi hedef alan projenin ana mesajı "Matematik Çılgınlığı: Matematik eğlenceli olabilir!”.
 
 ## Installing / Getting started
 
-Clone the project, and open the project directory with Unity.
-From there you can modify and/or test it.
+##Proje Özellikleri / Fikirleri
 
-## Features
+#İnteraktif Oyunlar:
 
-* Playable demo (endless mode) with scoring system
-* Core gameplay implemented - combining aliens (numbers) with artifacts (operators) to defeat the boss
-* Complete asset files, including music and spritework
+Sadece eğitici değil aynı zamanda eğlenceli matematik tabanlı oyun geliştirildi.
 
-## Licensing
+Öğrenme deneyimini daha ilgi çekici hale getirmek için karakter unsurlarını dahil edildi.
 
-The code in this project is licensed under MIT license.
+#Görsel Oğrenme Yardımcıları:
+
+Matematiksel kavramları temsil etmek için canlı ve renkli görseller kullanıldı.
+
+#Kullanıcı Dostu Arayüz:
+
+Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlandı.
+
