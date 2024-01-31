@@ -87,6 +87,6 @@ Projenin güçlü yönlerini (Strengths), zayıf yönlerini (Weaknesses), fırsa
   
 - Kullanıcı bilgilerini korumak için güvenli veri saklama ve iletim yöntemleri kullanmak.
 
-> # Yükleme
+> # Kurulum
 
 Projeyi klonlayın ve proje dizinini Unity ile açın. Oradan değiştirebilir ve/veya test edebilirsiniz.
