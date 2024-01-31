@@ -27,6 +27,7 @@
 
 > # Tanıtıcı Video
 
+- https://youtu.be/QFudLWxtKAk
 
 > # Projenin SWOT Analizi
 
